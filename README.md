@@ -21,12 +21,6 @@ This Power BI project focuses on analyzing employee attrition patterns within an
 
 The dataset consists of structured HR records (Excel/CSV) containing employee demographics, job roles, satisfaction levels, and attrition status.
 
-## Usage
-
-1. Open `Employee_Attrition_Analysis.pbix` in Power BI Desktop.
-2. Interact with visuals and filters to explore attrition insights.
-3. Refresh data to update results with the latest employee information.
-
 ## Future Scope
 
 * Predictive modeling for attrition risk forecasting
